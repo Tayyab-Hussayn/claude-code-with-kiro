@@ -19,6 +19,7 @@ build/
 # Debug logs (generated when DEBUG_MODE is enabled)
 debug_logs*/
 debug*.json
+venv/
 
 # Project-specific
 _notes/
